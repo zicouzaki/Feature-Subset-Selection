@@ -1,8 +1,7 @@
 """ Unsupervised variable subset selection methods for multivariate time series (MTS) based
 on common principal component analysis (CPCA), named CLeVer. 
 
-Research paper : Feature Subset Selection and Feature
-Ranking for Multivariate Time Series ( Hyunjin Yoon, Kiyoung Yang, and Cyrus Shahabi )"""
+Research paper 2: Feature Subset Selection and Feature Ranking for Multivariate Time Series ( Hyunjin Yoon, Kiyoung Yang, and Cyrus Shahabi )"""
 
 
 import argparse
